@@ -10,7 +10,6 @@ Esta aplicación móvil consiste en contratar cualquier servicio que se pueda br
 ![alt text](https://raw.githubusercontent.com/gerson248/servicios_app/master/servicios_app/screenshot/2.png)
 ![alt text](https://raw.githubusercontent.com/gerson248/servicios_app/master/servicios_app/screenshot/3.png)
 ![alt text](https://raw.githubusercontent.com/gerson248/servicios_app/master/servicios_app/screenshot/4.png)
-![alt text](https://raw.githubusercontent.com/gerson248/servicios_app/master/servicios_app/screenshot/5.png)
 ![alt text](https://raw.githubusercontent.com/gerson248/servicios_app/master/servicios_app/screenshot/6.png)
 ![alt text](https://raw.githubusercontent.com/gerson248/servicios_app/master/servicios_app/screenshot/7.png)
 ![alt text](https://raw.githubusercontent.com/gerson248/servicios_app/master/servicios_app/screenshot/8.png)
